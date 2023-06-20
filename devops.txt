@@ -20,3 +20,9 @@ Ansible- Config management
 Prometheus 
 Grafana
 
+Misc:
+AWS Services
+Python Jenkins, Ansible, Docker automation
+Interview
+Resume Preparation
+
