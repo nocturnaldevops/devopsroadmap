@@ -2,3 +2,10 @@ Pre-requisites:
 Linux and Shell
 Networking Basics
 
+Git and Github  - Version Controlling and SCM
+Maven  - Build Tool
+Tomcat  -  Application Server 
+Sonarqube - Code Quality Analysis
+Jfrog - Preserve Artifacts ( software builds)
+Jenkins - CICD
+
