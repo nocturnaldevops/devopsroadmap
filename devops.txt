@@ -13,3 +13,7 @@ Containers and Container Orchestration:
 Docker
 Docker Swarm
 Kubernetes
+
+Terraform - IAC
+Ansible- Config management
+
