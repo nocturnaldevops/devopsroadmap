@@ -1,0 +1,4 @@
+Pre-requisites: 
+Linux and Shell
+Networking Basics
+
